@@ -21,7 +21,6 @@ retrieved_X_data/*
 *.json
 *.png
 *.pdf
-*.csv
 
 # Distribution / packaging
 .Python
